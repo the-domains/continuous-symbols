@@ -12,3 +12,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 name: continuous symbols
+navigation:
+  - name: News
+    url: www.bbc.com
+    type: external
