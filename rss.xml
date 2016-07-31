@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[continuous symbols]]></title>
         <description><![CDATA[continuous symbols]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/continuous-symbols/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 09:58:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jul 2016 10:01:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/continuous-symbols/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[qqqq]]></title>
+            <description><![CDATA[<article><h1>qqqq</h1><p>asdfgh</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d39be0-bde0-4130-baa9-9603e762ac3a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/32d39be0-bde0-4130-baa9-9603e762ac3a.jpg</link>
+            <guid isPermaLink="false">4cf5cd6e-d85d-4cf6-b2fe-a160fbf88b44</guid>
+            <pubDate>Sun, 31 Jul 2016 10:01:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Top Bartenders Name Their Favorite Drinking Cities]]></title>
             <description><![CDATA[<article><h1>Top Bartenders Name Their Favorite Drinking Cities</h1><p>These are the best drinking cities, according to some of America's best bartenders, including New York, New Orleans, Portland,&hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ee71e6476c85c57b74ac55e009be08dc7b85537.jpg"></article>]]></description>
