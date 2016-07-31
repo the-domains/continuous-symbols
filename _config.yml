@@ -16,3 +16,6 @@ navigation:
   - name: News
     url: www.bbc.com
     type: external
+  - name: News around the world
+    url: 'http:/www.bbc.com'
+    type: external
